@@ -1,0 +1,12 @@
+Rabobank
+rekeningnr,"EUR",datum(yyyymmdd),D/C,bedrag(13.40),rekening_aan_van,naam_aan_van,datum(yyyymmdd),wijze(TB/BA),10,omschrijving,omschrijving2,13,14,15,16
+"0335672663","EUR",20050607,"D",5.00,"0111149819","PTG Rutjes",20050606,"TB","","Survivalrun 26 Juni","29-04-1982 Lukas v Driel","","","",""
+
+Postbank
+
+
+ABN Amro
+
+
+ING Bank
+

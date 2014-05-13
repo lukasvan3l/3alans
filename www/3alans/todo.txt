@@ -1,0 +1,19 @@
+   basis
+keuze aan begin: Rabobank / ABN / Postbank (ondersteund / niet ondersteund)
+keuze aan begin: telebankieren?
+prullenbakje naast checkbox bewerken
+oninvullen toevoegen checkbox selected maken
+bonnr en afschriftnr toevoegen aan overschrijving
+import checken
+dynamisch automatische aanvullingen aanmaken (op omschrijving of afzender)
+
+
+   comfort
+vormgeving (3aLans)
+meerdere rekeningen?
+
+
+
+   luxe
+abn amro?
+postbank?

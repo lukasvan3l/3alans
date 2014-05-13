@@ -1,0 +1,91 @@
+BODY {
+	font-family: verdana;
+	font-size: 11;
+	color: #7C8FA1;
+	background-color: white;
+	margin: 10px;
+	overflow-x:hidden; 
+	scrollbar-track-color: #ffffff;
+	scrollbar-shadow-color: #ffffff;
+	scrollbar-highlight-color: #ffffff;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-base-color:  #ffffff;
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-darkshadow-color: #ffffff;	
+	scrollbar-face-color: #B5D0EC;
+	}
+
+TABLE	{
+	font-family: verdana;
+	font-size: 11;
+	color: #7C8FA1; 
+	text-decoration: none; 
+	}
+
+form {
+	margin:0px;
+	}
+
+hr	{
+	color: #B5D0EC;
+	}
+	
+img	{
+	border-width: 0px;
+	}
+
+A	{
+	font-family:verdana;
+	font-size:11;
+	color: #7C8FA1; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+
+A:HOVER {
+	color : #A1937C;
+	}
+
+H1 {
+	font-family: verdana;
+	font-size: 13;
+	color: #7C8FA1; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+
+H2 {
+	font-family: verdana;
+	font-size: 12;
+	color: #7C8FA1; 
+	text-decoration: underline; 
+	font-weight: normal;
+	}
+
+H3 {
+	font-family: verdana;
+	font-size: 11;
+	color: #7C8FA1; 
+	text-decoration: none; 
+	font-weight: bold;
+	}
+
+.button, textarea, input, select
+	{
+	font-family: verdana;
+	font-size: 11;
+	color: #7C8FA1; 
+	text-decoration: none; 
+	background-color: white;
+	border-color: #B5D0EC;
+	border-style: solid;
+	border-width: 1px;
+	}
+
+.header
+	{
+	background-color: #7C8FA1;
+	font-weight: bold;
+	color: white;
+	height: 25px;
+	}
